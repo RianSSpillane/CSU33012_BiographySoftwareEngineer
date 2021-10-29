@@ -2,7 +2,7 @@
 
 This repository contains my submission for the Software Engineer Biography task in CSU33012.
 
-I have written a 4 page biography on <Grace Murray Hopper> who was a pioneer in the field on Software Engineering. 
+I have written a 4 page biography on <b>Grace Murray Hopper</b> who was a pioneer in the field on Software Engineering. 
 
 If you have any questions/concerns, please contact me at : 'spillari@tcd.ie'
 
